@@ -4,7 +4,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace GymSphere.DataContext
+namespace GymSphere.DataContext.Migrations
 {
     /// <inheritdoc />
     public partial class init : Migration
